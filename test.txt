@@ -1,0 +1,3 @@
+盲打输出
+vi编辑器外插入内容
+echo (charuneirong) >> ObjectFileName
