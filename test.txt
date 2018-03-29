@@ -2,3 +2,4 @@
 vi编辑器外插入内容
 echo (charuneirong) >> ObjectFileName
 插入一行333333333333333
+江山如此多娇，引无数英雄尽折腰
