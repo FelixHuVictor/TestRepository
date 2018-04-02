@@ -1,2 +1,5 @@
 当前工作区的编辑内容
 需要git stash 隐藏起来`
+
+
+新隐藏的内容，git apply 或者git stash pop 恢复
