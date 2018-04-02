@@ -1,5 +1,177 @@
 当前工作区的编辑内容
 需要git stash 隐藏起来`
 
+3333git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+1111git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+3333git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+1111git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
 
-新隐藏的内容，git apply 或者git stash pop 恢复
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+3333git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+1111git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+2222git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+3333git stash apply 恢复隐藏去的内容 git stash drop 删除隐藏去信息，一次删除一条
+9999>>>>>>> dev
+4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+			tash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+9999git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+65656565git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+8888git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+3333git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+1111git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+2222git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+3333git stash apply 恢复隐藏去的内容 git stash drop 删除隐藏去信息，一次删除一条
+9999>>>>>>> dev
+4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+"public" 47L, 2103C  9999>>>>>>> dev
+8888git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+9999git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+65656565git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+8888git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+3333git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+1111git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+2222git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+3333git stash apply 恢复隐藏去的内容 git stash drop 删除隐藏去信息，一次删除一条 9999>>>>>>> dev 4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地 9999>>>>>>> dev 5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+"public" 47L, 2103C  9999>>>>>>> dev
+8888git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+9999git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+65656565git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+8888git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+3333git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+1111git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+2222git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+3333git stash apply 恢复隐藏去的内容 git stash drop 删除隐藏去信息，一次删除一条
+9999>>>>>>> dev
+4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+7777git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+6666git chenckout -b dev origin/dev 抓取远程仓库dev分支到本地
+9999>>>>>>> dev
+5555git push origin master 提交本地主分支到元仓库
+9999>>>>>>> dev
+4444git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+"public" 47L, 2103C  : apply 恢复隐藏去的内容 git stash drop 删除隐藏去信息，一次删除一条
+
+
+
+
+9999>>>>>>> dev
+8888git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+9999>>>>>>> dev
+9999git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+9999>>>>>>> dev
+65656565git stash pop 恢复隐藏去内容后删除`
+9999>>>>>>> dev
+
+
+
+1.9999>>>>>>> dev
+2.8888git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
+3.9999>>>>>>> dev
+4.9999git remote add origin GITHUB DEPOSITORY URL 添加远程仓库origin到本地
+5.9999>>>>>>> dev
+6.65656565git stash pop 恢复隐藏去内容后删除`
+7.9999>>>>>>> dev
