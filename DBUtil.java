@@ -5,6 +5,14 @@ public class DBUtil{
 	public static String user= "root";
 	public static String pwd = "167910";
 	
+	/*
+	public static void main(String args[]){
+	
+		System.out.println(".exrc vi环境配置，缩写模式syso输出"); 
+	
+	} 
+	*/	
+
 	static{
 		try{
 			class.forName("com.mysql.jdbc.Driver");
