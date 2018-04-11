@@ -588,17 +588,3 @@ _ _8  9 10 11 12 13 14
 2222git stash 隐藏当前工作区域，git stash list 查看隐藏区域的信息列表
 9999>>>>>>> dev
 3333git stash apply 恢复隐藏去的内容 git stash drop 删除隐藏去信息，一次删除一条
-9999>>>>>>> dev
-public class student{
-	public static void main(String args[]){
-		//单行注释
-		/*
-		  多行注释
-		  多行注释
-		  多行注释
-		  多行注释
-		*/
-		System.out.println("缩写syso");
-
-	}
-}
