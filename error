@@ -1,0 +1,64 @@
+dbutil.java:18: 错误: 需要<标识符>
+			class.forName("com.mysql.jdbc.Driver");
+			     ^
+dbutil.java:18: 错误: 方法声明无效; 需要返回类型
+			class.forName("com.mysql.jdbc.Driver");
+			      ^
+dbutil.java:18: 错误: 非法的类型开始
+			class.forName("com.mysql.jdbc.Driver");
+			              ^
+dbutil.java:19: 错误: 需要<标识符>
+			System.out.println("驱动加载成功！");
+			                  ^
+dbutil.java:19: 错误: 非法的类型开始
+			System.out.println("驱动加载成功！");
+			                   ^
+dbutil.java:20: 错误: 有 'catch', 但是没有 'try'
+		}catch(ClassNotFoundException exc){
+		 ^
+dbutil.java:17: 错误: 'try' 不带有 'catch', 'finally' 或资源声明
+		try{
+		^
+dbutil.java:25: 错误: 非法的表达式开始
+	public static Connection getConn(){
+	^
+dbutil.java:25: 错误: 非法的表达式开始
+	public static Connection getConn(){
+	       ^
+dbutil.java:25: 错误: 需要';'
+	public static Connection getConn(){
+	                        ^
+dbutil.java:25: 错误: 需要';'
+	public static Connection getConn(){
+	                                  ^
+dbutil.java:43: 错误: 非法的表达式开始
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	^
+dbutil.java:43: 错误: 非法的表达式开始
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	       ^
+dbutil.java:43: 错误: 需要';'
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	             ^
+dbutil.java:43: 错误: 需要')'
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	                                  ^
+dbutil.java:43: 错误: 非法的表达式开始
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	                                     ^
+dbutil.java:43: 错误: 需要';'
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	                                               ^
+dbutil.java:43: 错误: 不是语句
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	                                                ^
+dbutil.java:43: 错误: 需要';'
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	                                                    ^
+dbutil.java:43: 错误: 需要';'
+	public static void close(ResultSet rs,Statement stmt,Connection conn){
+	                                                                    ^
+dbutil.java:80: 错误: 解析时已到达文件结尾
+}
+ ^
+21 个错误

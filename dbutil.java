@@ -1,5 +1,5 @@
-package com.aowin.finance.util
-import jaa.sql.*
+package com.aowin.finance.util;
+import jaa.sql.*;
 public class DBUtil{
 	public static String url = "jdbc:mysql://localhost:3306/scm";
 	public static String user= "root";
