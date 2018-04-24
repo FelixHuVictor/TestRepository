@@ -1,4 +1,4 @@
-dbutil.java:18: 错误: 需要<标识符>
+butil.java:18: 错误: 需要<标识符>
 			class.forName("com.mysql.jdbc.Driver");
 			     ^
 dbutil.java:18: 错误: 方法声明无效; 需要返回类型
