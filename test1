@@ -1,0 +1,25 @@
+文件系统           Inode 已用(I)   可用(I) 已用(I)% 挂载点
+udev             1462496     593   1461903       1% /dev
+tmpfs            1468148     841   1467307       1% /run
+/dev/sdb3        7536640  261475   7275165       4% /
+tmpfs            1468148      27   1468121       1% /dev/shm
+tmpfs            1468148       5   1468143       1% /run/lock
+tmpfs            1468148      18   1468130       1% /sys/fs/cgroup
+/dev/sdb1         121920     336    121584       1% /boot
+cgmfs            1468148      14   1468134       1% /run/cgmanager/fs
+/dev/sda5      140914996   77457 140837539       1% /media/felix_hu/APP
+/dev/sda6      319120764   98517 319022247       1% /media/felix_hu/DATA
+tmpfs            1468148      26   1468122       1% /run/user/1001
+-----------
+文件系统           1K-块     已用      可用 已用% 挂载点
+udev             5849984        0   5849984    0% /dev
+tmpfs            1174520     9600   1164920    1% /run
+/dev/sdb3      118523172  6645908 105833568    6% /
+tmpfs            5872592    32028   5840564    1% /dev/shm
+tmpfs               5120        4      5116    1% /run/lock
+tmpfs            5872592        0   5872592    0% /sys/fs/cgroup
+/dev/sdb1         463844    67457    367920   16% /boot
+cgmfs                100        0       100    0% /run/cgmanager/fs
+/dev/sda5      157300384 16516460 140783924   11% /media/felix_hu/APP
+/dev/sda6      331083552 12126628 318956924    4% /media/felix_hu/DATA
+tmpfs            1174520       40   1174480    1% /run/user/1001
