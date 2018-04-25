@@ -1,11 +1,16 @@
+
+			111class.forName("com.mysql.jdbc.Driver");
+
+
+
+
+
 butil.java:18: 错误: 需要<标识符>
-			class.forName("com.mysql.jdbc.Driver");
 			     ^
 dbutil.java:18: 错误: 方法声明无效; 需要返回类型
-			class.forName("com.mysql.jdbc.Driver");
 			      ^
 dbutil.java:18: 错误: 非法的类型开始
-			class.forName("com.mysql.jdbc.Driver");
+			3333class.forName("com.mysql.jdbc.Driver");
 			              ^
 dbutil.java:19: 错误: 需要<标识符>
 			System.out.println("驱动加载成功！");
@@ -27,7 +32,6 @@ dbutil.java:25: 错误: 非法的表达式开始
 	       ^
 dbutil.java:25: 错误: 需要';'
 	public static Connection getConn(){
-	                        ^
 dbutil.java:25: 错误: 需要';'
 	public static Connection getConn(){
 	                                  ^
