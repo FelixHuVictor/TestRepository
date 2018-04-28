@@ -1,0 +1,16 @@
+#!/bin/bash
+########定义数据库变量
+host="localhost"
+user="root"
+password="167910"
+dbname="test_da"
+tablename="test_user"
+
+########定义DML语句
+create_db_sql="create database if not exists ${dbname}"
+create_table_sql="create table if not exists ${tablename}(id int(11)primary key auto_increment,name varchar(10)not null,mark double(5) not null)"
+
+########DML
+mysql -h${host} -u${user} -p${password} -e "${create_db_sql};"
+mysql -h${host} -u${user} -p${password} ${dbname} -e "${create_table_sql};"
+
